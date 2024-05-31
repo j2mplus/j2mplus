@@ -1,0 +1,6 @@
+- 👋 Heeey I'm Julia
+- 👀 I’m interested in all types of AI/ML software in Python language but also branching out to Ansible and Go
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any sort of autonomous applications
+- 📫 How to reach me julialuna2000@gmail.com
+- ⚡ Fun fact: I love video games and the gym
